@@ -3,5 +3,8 @@
         "password": "Passwort",
         "are_you_sure": "Sind Sie sicher?",
         "close": "Schließen"
+    },
+    "yml_config": {
+        "configuration": "Konfiguration"
     }
 }
